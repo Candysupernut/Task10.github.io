@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>css-properties</title>
+		<link href="style1.css" rel="stylesheet">
+		<style>
+		
+		</style>
+	</head>
+<body>
+<h1>Спеціалізована школа №106</h1><img src="2.jpg"alt="school 106" class="pic1">
+<ul>
+<li><a href="gallery.html" target="_blank" title="gallery">Галерея</a></li>
+<li><a href="history.html" target="_blank" title="history">Історія школи</a></li>
+<li><a href="contacts.html" target="_blank" title="contacts">Контакти</a></li>
+</ul>

@@ -1,0 +1,19 @@
+.pic2{
+
+height:400px;
+width:780px;
+}
+.pic4{
+
+height:400px;
+width:400px;
+vertical-align: bottom;
+}
+body{
+	background-color:#F0FFFF;
+}
+.pic1{
+
+height:400px;
+width:700px;
+}

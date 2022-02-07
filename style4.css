@@ -1,0 +1,16 @@
+body{
+	font-size:40px;
+	background-color:#F0FFFF;
+}
+ul{
+	float:left;
+	list-style:none;
+}
+.pic1{
+	float:right;
+	height:700px;
+	width:1000px;
+}
+h1{
+	color:#2F4F4F;
+}
